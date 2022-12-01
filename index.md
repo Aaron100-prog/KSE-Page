@@ -12,7 +12,7 @@
   			background-size: cover;
 			}
 		img { 
-  			background-color: transparent;
+  			background-color: #fff0;
 		}
 	</style>
 </head>
