@@ -14,6 +14,16 @@
 	</style>
 </head>
 <body>
-
+	<div class="panel panel-primary" align="center" style="border: 2px solid grey">
+        <div class="panel-header">
+        
+    	  </div>
+	<div class="panel-body">
+	 
+	</div>
+	<div class="panel-footer">\
+	
+	</div>
+	</div>
 </body>
 </html>
