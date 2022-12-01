@@ -18,10 +18,7 @@
 </head>
 <body>
 	<div align="center">
-		<imglabel src="label_kse.png" alt="Label KSE"/>
-		body { 
-  			background-color: transparent;
-		}
+		<img src="label_kse.png" alt="Label KSE"/>
 
 	</div>
 	  
