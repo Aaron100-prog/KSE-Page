@@ -11,14 +11,11 @@
   			background-attachment: fixed;
   			background-size: cover;
 			}
-		img { 
-  			background-color: #fff0;
-		}
 	</style>
 </head>
 <body>
 	<div align="center">
-		<img src="label_kse.png" alt="Label KSE"/>
+		<img src="label_kse.png" alt="Label KSE" style="background-color:#fff0"/>
 
 	</div>
 	  
