@@ -10,12 +10,16 @@
   			background-repeat: no-repeat;
   			background-attachment: fixed;
   			background-size: cover;
-}
+			}
 	</style>
 </head>
 <body>
 	<div align="center">
 		<img src="label_kse.png" alt="Label KSE"/>
+		body { 
+  			background-color: transparent;
+		}
+
 	</div>
 	  
 	<div class="panel panel-primary" align="center" style="border: 2px solid grey">
