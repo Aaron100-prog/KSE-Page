@@ -11,11 +11,14 @@
   			background-attachment: fixed;
   			background-size: cover;
 			}
+		imglabel { 
+  			background-color: transparent;
+		}
 	</style>
 </head>
 <body>
 	<div align="center">
-		<img src="label_kse.png" alt="Label KSE"/>
+		<imglabel src="label_kse.png" alt="Label KSE"/>
 		body { 
   			background-color: transparent;
 		}
@@ -34,4 +37,6 @@
 	</div>
 	</div>
 </body>
+
+
 </html>
