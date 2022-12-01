@@ -14,6 +14,10 @@
 	</style>
 </head>
 <body>
+	<div align="center">
+		<img src="label_kse.png" alt="Label KSE"/>
+	</div>
+	  
 	<div class="panel panel-primary" align="center" style="border: 2px solid grey">
         <div class="panel-header">
         
@@ -21,7 +25,7 @@
 	<div class="panel-body">
 	 
 	</div>
-	<div class="panel-footer">\
+	<div class="panel-footer">
 	
 	</div>
 	</div>
