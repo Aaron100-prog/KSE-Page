@@ -5,9 +5,15 @@
 	<title>KSE</title>
 	
 	<style>
-		p {
+		body {
   			background-image: url('background_test.png');
-		}
+  			background-repeat: no-repeat;
+  			background-attachment: fixed;
+  			background-size: cover;
+}
 	</style>
 </head>
-</html
+<body>
+
+</body>
+</html>
